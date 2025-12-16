@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Premium Ceylon Cinnamon Sticks",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+    "description": "Authentic Ceylon cinnamon sticks from Sri Lanka. Perfect for baking, cooking, and tea brewing. Known for its sweet, delicate flavor.",
+    "stock": 50
+  },
+  {
+    "name": "Organic Turmeric Powder",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400",
+    "description": "Pure organic turmeric powder with high curcumin content. Great for cooking, golden milk, and health benefits.",
+    "stock": 75
+  },
+  {
+    "name": "Whole Black Peppercorns",
+    "price": 1599,
+    "image": "https://images.unsplash.com/photo-1599909667729-0b99b1fb9c9e?w=400",
+    "description": "Premium whole black peppercorns from Kerala. Freshly sourced for maximum flavor and aroma.",
+    "stock": 40
+  },
+  {
+    "name": "Himalayan Pink Salt",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1588868885359-6dabc4f32885?w=400",
+    "description": "Pure Himalayan pink salt crystals. Rich in minerals and perfect for cooking and seasoning.",
+    "stock": 100
+  },
+  {
+    "name": "Cardamom Pods - Green",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1596040033229-a0b3b83b90e6?w=400",
+    "description": "Fresh green cardamom pods from the Western Ghats. Essential for Indian cuisine and desserts.",
+    "stock": 30
+  },
+  {
+    "name": "Star Anise Whole",
+    "price": 1899,
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+    "description": "Whole star anise pods with intense licorice flavor. Perfect for broths, teas, and Asian cuisine.",
+    "stock": 25
+  },
+  {
+    "name": "Organic Bay Leaves",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1617787779725-de96ac5e2b81?w=400",
+    "description": "Dried organic bay leaves for soups, stews, and rice dishes. Hand-picked for freshness.",
+    "stock": 60
+  },
+  {
+    "name": "Cloves Whole",
+    "price": 1799,
+    "image": "https://images.unsplash.com/photo-1575384113017-b420e2825d5e?w=400",
+    "description": "Premium whole cloves with intense aroma. Great for baking, mulled wine, and savory dishes.",
+    "stock": 35
+  },
+  {
+    "name": "Cumin Seeds",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1596637731862-6e693eb5e96e?w=400",
+    "description": "Whole cumin seeds with earthy, warm flavor. Essential for Indian, Middle Eastern, and Mexican cuisine.",
+    "stock": 80
+  },
+  {
+    "name": "Nutmeg Whole",
+    "price": 2199,
+    "image": "https://images.unsplash.com/photo-1601829040689-bfbf8e92d2e0?w=400",
+    "description": "Whole nutmeg with warm, nutty flavor. Perfect for baking, eggnog, and savory dishes.",
+    "stock": 20
+  },
+  {
+    "name": "Fennel Seeds",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1601749806797-2e38b43c1bf8?w=400",
+    "description": "Sweet fennel seeds with anise-like flavor. Great for teas, Indian cuisine, and digestive aid.",
+    "stock": 55
+  },
+  {
+    "name": "Saffron Threads",
+    "price": 4999,
+    "image": "https://images.unsplash.com/photo-1599580975665-36d95f7bc4b9?w=400",
+    "description": "Premium Kashmir saffron threads. The world's most expensive spice for biryanis, desserts, and teas.",
+    "stock": 10
+  },
+  {
+    "name": "Mustard Seeds Yellow",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1604956596398-d98c3e9dcd01?w=400",
+    "description": "Yellow mustard seeds for tempering, pickles, and mustard preparation. Mild and aromatic.",
+    "stock": 70
+  },
+  {
+    "name": "Coriander Seeds",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1616969840049-1b7c5e3c6698?w=400",
+    "description": "Whole coriander seeds with citrusy flavor. Essential for curry powders and spice blends.",
+    "stock": 65
+  },
+  {
+    "name": "Red Chili Flakes",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1583052276080-c7ad6c0e4f68?w=400",
+    "description": "Crushed red chili flakes for heat and flavor. Perfect for pizzas, pasta, and spicy dishes.",
+    "stock": 90
+  }
+]
